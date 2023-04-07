@@ -1,0 +1,19 @@
+.h1{justify-content: center;
+
+}
+
+
+/*==================== FOOTER ====================*/
+.footer{
+  color: #000000;
+  padding-top: 2rem;
+  
+}
+
+
+.footer__title{
+  font-size: var(--h1-font-size);
+
+}
+
+

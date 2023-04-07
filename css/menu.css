@@ -1,0 +1,33 @@
+.item-card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .item-card img {
+    width: 200px;
+    height: 200px;
+  }
+
+
+  .item-card2 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+  }
+  
+  .item-card2 img {
+    width: 200px;
+    height: 400px;
+  }
+
+  .item-card3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+  }
+  
+  .item-card3 img {
+    width: 200px;
+    height: 400px;
+  }
